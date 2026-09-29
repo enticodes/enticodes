@@ -59,23 +59,35 @@ I'm a **Frontend Developer** focused on building modern, responsive, and interac
 
 ## 🚀 Featured Projects
 
-### 🖤 Noctis Perfumes
+### 🖤 [Noctis Perfumes](https://noctisperfumes.vercel.app/)
 
 A dark luxury perfume e-commerce experience focused on modern UI, responsive design, and smooth interactions.
 
 **React • Tailwind CSS • JavaScript**
 
-### 🛍️ Orebi Shop
+🔗 **[Live Demo](https://noctisperfumes.vercel.app/)**
+
+---
+
+### 🛍️ [Orebi Shop](https://orebi-web-r.vercel.app/)
 
 A responsive e-commerce frontend with product browsing, shopping cart functionality, and modern UI.
 
 **React • Tailwind CSS • Redux**
 
-### 🥤 Nitro Energy Drinks
+🔗 **[Live Demo](https://orebi-web-r.vercel.app/)**
+
+---
+
+### 🥤 [Nitro Energy Drinks](https://energydrink-three.vercel.app/)
 
 An interactive energy drink website featuring immersive visuals, animations, and a modern product-focused interface.
 
 **React • Tailwind CSS • React Router**
+
+🔗 **[Live Demo](https://energydrink-three.vercel.app/)**
+
+---
 
 👉 More projects are available on my **[Portfolio](https://portfolio-fawn-gamma-95.vercel.app/)**.
 
@@ -99,6 +111,12 @@ An interactive energy drink website featuring immersive visuals, animations, and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enticodes&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enticodes&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
 </p>
 
 ---
