@@ -1,31 +1,109 @@
 <h1 align="center">Hi 👋, I'm Entisar</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enticodes&label=Profile%20views&color=0e75b6&style=flat" alt="enticodes" /> </p>
+<h3 align="center">Frontend Developer from Bangladesh 🇧🇩</h3>
 
-
-- 🔭 I’m currently working on **React-based frontend projects**
-
-- 🌱 I’m currently learning **Next.js, Node.js & MongoDB**
-
-- 👯 I’m looking to collaborate on **Frontend / React projects**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-fawn-gamma-95.vercel.app/](https://portfolio-fawn-gamma-95.vercel.app/)
-
-- 💬 Ask me about **React, JavaScript, Tailwind CSS & frontend development**
-
-- 📫 How to reach me **lokha.com@gmail.com**
-
-- ⚡ Fun fact **I love cookies ;)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/entiextraaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entiextraaf" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfolio-fawn-gamma-95.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 About Me
 
+I'm a **Frontend Developer** focused on building modern, responsive, and interactive web experiences.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enticodes&" alt="enticodes" /></p>
+* 🔭 Currently building **React-based web applications**
+* 🌱 Currently learning **Next.js, Node.js & MongoDB**
+* 🤖 I use **AI-assisted development tools** to improve my workflow and productivity
+* 💡 Interested in **React, UI/UX, animations, and modern frontend architecture**
+* 🤝 Open to collaborating on **Frontend & React projects**
+* 📂 Check out my projects: **[Portfolio](https://portfolio-fawn-gamma-95.vercel.app/)**
+* 📫 Reach me at **[lokha.com@gmail.com](mailto:lokha.com@gmail.com)**
+* ⚡ Fun fact: **I love cookies 🍪**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🖤 Noctis Perfumes
+
+A dark luxury perfume e-commerce experience focused on modern UI, responsive design, and smooth interactions.
+
+**React • Tailwind CSS • JavaScript**
+
+### 🛍️ Orebi Shop
+
+A responsive e-commerce frontend with product browsing, shopping cart functionality, and modern UI.
+
+**React • Tailwind CSS • Redux**
+
+### 🥤 Nitro Energy Drinks
+
+An interactive energy drink website featuring immersive visuals, animations, and a modern product-focused interface.
+
+**React • Tailwind CSS • React Router**
+
+👉 More projects are available on my **[Portfolio](https://portfolio-fawn-gamma-95.vercel.app/)**.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://instagram.com/entiextraaf">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:lokha.com@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enticodes&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enticodes&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
+
