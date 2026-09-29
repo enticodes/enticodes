@@ -109,7 +109,6 @@ An interactive energy drink website featuring immersive visuals, animations, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enticodes&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enticodes&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
