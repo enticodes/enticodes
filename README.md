@@ -95,12 +95,12 @@ An interactive energy drink website featuring immersive visuals, animations, and
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://instagram.com/entiextraaf">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<p align="left">
+  <a href="https://instagram.com/entiextraaf" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:lokha.com@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
@@ -109,6 +109,7 @@ An interactive energy drink website featuring immersive visuals, animations, and
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enticodes&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enticodes&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
@@ -117,7 +118,3 @@ An interactive energy drink website featuring immersive visuals, animations, and
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
 </p>
-
----
-
-
