@@ -102,6 +102,9 @@ An interactive energy drink website featuring immersive visuals, animations, and
   <a href="mailto:lokha.com@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/entisardev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -117,3 +120,4 @@ An interactive energy drink website featuring immersive visuals, animations, and
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
 </p>
+
