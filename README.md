@@ -96,7 +96,7 @@ An interactive energy drink website featuring immersive visuals, animations, and
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/entiextraaf" target="_blank">
+  <a href="https://www.instagram.com/entixgram" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:lokha.com@gmail.com">
