@@ -20,7 +20,7 @@ I'm a **Frontend Developer** focused on building modern, responsive, and interac
 * 💡 Interested in **React, UI/UX, animations, and modern frontend architecture**
 * 🤝 Open to collaborating on **Frontend & React projects**
 * 📂 Check out my projects: **[Portfolio](https://portfolio-fawn-gamma-95.vercel.app/)**
-* 📫 Reach me at **[lokha.com@gmail.com](mailto:lokha.com@gmail.com)**
+* 📫 Reach me at **[lokha.com@gmail.com](mailto:entisarulhaque@gmail.com)**
 * ⚡ Fun fact: **I love cookies 🍪**
 
 ---
@@ -99,7 +99,7 @@ An interactive energy drink website featuring immersive visuals, animations, and
   <a href="https://www.instagram.com/entixgram" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="mailto:lokha.com@gmail.com">
+  <a href="mailto:entisarulhaque@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/entisardev/" target="_blank">
