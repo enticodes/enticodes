@@ -20,7 +20,7 @@ I'm a **Frontend Developer** focused on building modern, responsive, and interac
 * 💡 Interested in **React, UI/UX, animations, and modern frontend architecture**
 * 🤝 Open to collaborating on **Frontend & React projects**
 * 📂 Check out my projects: **[Portfolio](https://portfolio-fawn-gamma-95.vercel.app/)**
-* 📫 Reach me at **[lokha.com@gmail.com](mailto:entisarulhaque@gmail.com)**
+* 📫 Reach me at **[entisarulhaque@gmail.com](mailto:entisarulhaque@gmail.com)**
 * ⚡ Fun fact: **I love cookies 🍪**
 
 ---
